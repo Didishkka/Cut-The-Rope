@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\AmNyam.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CutTheRope.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\BaseScene.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Loading.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Start.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Game.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Level.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Settings.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Rope.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Candy.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LevelMap.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Bubble.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\HairDryer.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\background_game.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\doska.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\background_start.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\candy.PNG">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\loading.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\button_exit.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\button_play.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\button_settings.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\background_loading.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\button_back.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\background_simple.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\LevelOneCard.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\LevelThreeCard.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\LevelTwoCard.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\AllAmNyams.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\final.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\star.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\words.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\barrier.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\bubble.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\dyson.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\trampoline.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\tapHere.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\starsCounter.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\lock.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\pic\bool.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="..\pic\button_retry.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\AmNyam.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\BaseScene.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Loading.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Start.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Game.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Level.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Settings.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Rope.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Candy.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LevelMap.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Bubble.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="..\HairDryer.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\Polysoup.otf">
+      <Filter>Файлы ресурсов</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\music\bubble.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\bubble_break.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\game_music.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\menu_music.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\monster_open.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\monster_sad.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\rope_get.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\star_1.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\star_2.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\star_3.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\win.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="..\music\zvuk-sushki-fenom.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
+</Project>
